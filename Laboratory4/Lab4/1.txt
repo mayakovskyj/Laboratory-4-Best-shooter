@@ -1,0 +1,5 @@
+Best shooter of the season is: Kosenko Valia
+And their racings are:
+Stage: 1, start number: 2, place: 5, time of distance: 3200.000000, missing shots: 6
+Stage: 2, start number: 8, place: 3, time of distance: 2250,/// missing shots: 3
+Stage: 3, start number: 2, place: 1, time of distance: 2400.000000, missing shots: 2
